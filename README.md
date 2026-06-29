@@ -100,16 +100,6 @@ I'm a passionate software developer who enjoys building **real-world application
 
 ---
 
-## 🚀 Featured Projects
-
-> Replace these with your real repositories later
-
-- 🌐 **Web App Project** – Full-stack application built with modern technologies  
-- 🖥️ **Desktop App Project** – Cross-platform desktop software  
-- 🤖 **AI Project** – Intelligent system or automation tool  
-- 📊 **Data/Utility Tool** – Productivity or analysis application  
-
----
 
 ## 🌱 Currently Learning
 
