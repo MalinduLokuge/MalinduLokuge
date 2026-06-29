@@ -66,17 +66,6 @@ I'm a passionate software developer who enjoys building **real-world application
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MalinduLokuge&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalinduLokuge&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
 
 ## 🔥 Streak Stats
 
@@ -89,14 +78,6 @@ I'm a passionate software developer who enjoys building **real-world application
 ## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MalinduLokuge&theme=tokyo-night)](https://github.com/MalinduLokuge)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MalinduLokuge&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
