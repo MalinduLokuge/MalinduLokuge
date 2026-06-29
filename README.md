@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Developer | 🖥️ Desktop App Developer | 🤖 AI Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Desktop+Application+Developer;AI+Enthusiast;Problem+Solver;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Desktop+Application+Developer;AI+Developer;Problem+Solver;Always+Learning+New+Things" />
 
 ---
 
